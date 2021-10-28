@@ -1,0 +1,16 @@
+{
+  "name": "wechaty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node dist\\src\\index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tencentcloud-sdk-nodejs": "^4.0.220",
+    "wechaty": "^0.68.1"
+  }
+}
